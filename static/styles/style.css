@@ -1,0 +1,51 @@
+.mainCont{
+
+    
+    background-color:slateblue;     
+    height: 50px;
+    padding: 5px;
+    color: snow;
+    
+    
+}
+.myFormclass{
+
+    
+   height: 300px;   
+   text-align: center;
+   position: relative;
+   align-items: center;
+   margin: auto;
+  width: 50%;
+  border: 3px solid rgb(95, 2, 182);
+  padding: 20px;
+  margin-top: 50px;
+    
+}
+.butn {
+    width: 100%;
+    background-color:slateblue; 
+    color: white;
+    padding: 7px 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .txt {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+
+.jumbotron #test{
+    background-color:rgb(134, 72, 131); 
+    color: white;
+   
+
+}
